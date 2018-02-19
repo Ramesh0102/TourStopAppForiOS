@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{12E1F829-B1E2-4A37-9CAF-21ADA0A00AFB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TourStopAppForiOS/Main.storyboard">
+    <Files>
+      <File FileName="TourStopAppForiOS/ViewController.cs" Line="4" Column="1" />
+      <File FileName="TourStopAppForiOS/Main.storyboard" />
+      <File FileName="TourStopAppForiOS/TourStopTableCell.cs" Line="16" Column="43" />
+      <File FileName="TourStopAppForiOS/TourStopsTableSource.cs" Line="40" Column="57" />
+      <File FileName="TourLib.iOS/TourStops.cs" Line="109" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TourStopAppForiOS" expanded="True">
+            <Node name="TourLib.iOS" expanded="True" />
+            <Node name="TourStopAppForiOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TourStopAppForiOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.323EAE46-D6BC-47A6-A224-ACECA7D84ED3" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TourStopAppForiOS>
+  <MultiItemStartupConfigurations />
+</Properties>
